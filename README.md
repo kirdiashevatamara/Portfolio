@@ -28,7 +28,7 @@
   <li>Задача №2.</li> На основании ретро-данных пересчитать план найма преподавателей.
 </ol>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/kirdiashevatamara/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201">Ссылка на проект</a>
   
 
 <p>Выводы (итоги):<p>
