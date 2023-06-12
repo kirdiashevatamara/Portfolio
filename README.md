@@ -28,7 +28,7 @@
   <li>Задача №2.</li> На основании ретро-данных пересчитать план найма преподавателей.
 </ol>
 
-> <a href="https://github.com/kirdiashevatamara/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1PPoHrwe7GlqwvhfOBg4l-c8zc4Qhu9loflr3Sffcrck/edit?usp=sharing">Ссылка на проект</a>
   
 
 <p>Выводы (итоги):Рассчитаны прогнозируемые параметры на следующий год, согласно установленным целям. 
@@ -46,7 +46,7 @@
 </ol>
 
 
-> <a href="https://github.com/kirdiashevatamara/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202">Ссылка на проект</a>
+> <a href="https://docs.google.com/presentation/d/11yttH-shCBfGj7MqeJ2MImUGV2p-4RL8/edit?usp=sharing&ouid=100628878406929974425&rtpof=true&sd=true">Ссылка на проект</a>
  
  
 <p>Выводы (итоги): Расчитаны параметры для выхода на маржинальность 25%. Визуализирована динамика просмотров, по пользователям, часовым поясам, и динамика популярности просмотров. 
@@ -63,13 +63,9 @@
   <li>Задача №4</li> Визуализация полученных доходимостей для каждого партнера.
 </ol>
 
-> <a href="https://github.com/kirdiashevatamara/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1-8B0LTyAIs12K9LL9S2Gp4WF5TBMNAbi/edit?usp=sharing&ouid=100628878406929974425&rtpof=true&sd=true" >Ссылка на проект</a>
 
-  <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
+  <p>Выводы (итоги): Расчитаны винтажные доходимости по каждому из партнеров. Визуализация доходимостей по каждому из партнеров.
 
 <br> 
 <p>Проект 4: Построение витрины для модели машинного обучения в банке </p> 
