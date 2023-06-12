@@ -63,7 +63,7 @@
   <li>Задача №4</li> Визуализация полученных доходимостей для каждого партнера.
 </ol>
 
-> <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
+> <a href="https://github.com/kirdiashevatamara/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203">Ссылка на проект</a>
 
   <p>Выводы (итоги):<p>
 <ol>
