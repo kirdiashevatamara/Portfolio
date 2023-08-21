@@ -32,7 +32,7 @@
 <li>Задача №2. На основании ретро-данных пересчитать план найма преподавателей.</li>
 </p>
 <p>
-<h4> <a href="https://docs.google.com/spreadsheets/d/1PPoHrwe7GlqwvhfOBg4l-c8zc4Qhu9loflr3Sffcrck/edit?usp=sharing">Ссылка на проект</a><h4>
+<h4><a href="https://docs.google.com/spreadsheets/d/1PPoHrwe7GlqwvhfOBg4l-c8zc4Qhu9loflr3Sffcrck/edit?usp=sharing">Ссылка на проект</a><h4>
  
 <p><h4>Выводы (итоги):Рассчитаны прогнозируемые параметры на следующий год, согласно установленным целям.<h4><p> 
 
@@ -60,14 +60,13 @@
 <li>Задача №3</li> Рассчитать винтажные доходимости по каждому партнеру.
 <li>Задача №4</li> Визуализация полученных доходимостей для каждого партнера.<h4>
 </ul>
-
-> <h4><a href="https://docs.google.com/spreadsheets/d/1-8B0LTyAIs12K9LL9S2Gp4WF5TBMNAbi/edit?usp=sharing&ouid=100628878406929974425&rtpof=true&sd=true" >Ссылка на проект</h4></a>
+<h4><a href="https://docs.google.com/spreadsheets/d/1-8B0LTyAIs12K9LL9S2Gp4WF5TBMNAbi/edit?usp=sharing&ouid=100628878406929974425&rtpof=true&sd=true" >Ссылка на проект</h4></a>
 
 <p>Выводы (итоги): Расчитан Retention и LTV пользователей онлайн-кинотеатра. Расчитаны винтажные доходимости по каждому из партнеров. Визуализация доходимостей по каждому из партнеров.
 
 <p> 
 <p><h3> Проект 4: Построение витрины для модели машинного обучения в банке </p>
-<p><h4>Что нужно было сделать: Cоставить витрину для модели машинного обучения для банка на основе имеющейся БД.<h4></p>
+<p><h4> Что нужно было сделать: Cоставить витрину для модели машинного обучения для банка на основе имеющейся БД.<h4></p>
 
  
 > <a href="https://docs.google.com/spreadsheets/d/1OxlCwOC1IchLd9FARaD4arCrzy81TdVr/edit?usp=sharing&ouid=100628878406929974425&rtpof=true&sd=true">Ссылка на проект</a>
